@@ -1,0 +1,15 @@
+{
+	"webRoot": "www",
+	"url": "http://localhost:12345",
+	"port": 12345,
+	"endpoints": {
+		"tgthExplore": "https://gdevapi.tagthai.com:443/dev/service-travel-explore",
+		"tgthTrip": "https://gdevapi.tagthai.com:443/dev/service-travel-trip-creator"
+	},
+	"socialShare": {
+		"title": "TAGTHAI",
+		"description": "TAGTHAI Web Share",
+		"image": "https://gdevimg.tagthai.com:30070/xnmbt5.png",
+		"type": "website"
+	}
+}
